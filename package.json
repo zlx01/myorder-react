@@ -15,9 +15,10 @@
     "styled-components": "^5.3.5",
     "weui": "^2.5.9"
   },
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-app-rewired build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
